@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a675315b-8cff-42bd-b868-e2dea1f75833" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DcRH2pQk6pm3Ea1t9c0nZL8hNg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.obj_factory">
+    <configuration name="GUI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xupf_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI/GUI.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="GUI02 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xupf_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI/GUI02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="obj_factory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xupf_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/06.对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/06.对象/obj_factory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="object02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xupf_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/06.对象" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/06.对象/object02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="turtle01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="xupf_python_study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI/turtle01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.obj_factory" />
+        <item itemvalue="Python.object02" />
+        <item itemvalue="Python.GUI02 (1)" />
+        <item itemvalue="Python.turtle01" />
+        <item itemvalue="Python.GUI (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a675315b-8cff-42bd-b868-e2dea1f75833" name="Default Changelist" comment="" />
+      <created>1660996294923</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660996294923</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="89" key="#Inspections" timestamp="1661777760893">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="451" y="89" key="#Inspections/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1661777760893" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1662386954635">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662386954635" />
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1662819960781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1662819960781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1662819960781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1662819960781">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1661776986211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1661776986211" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1661776986211">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1661776986211" />
+    <state x="559" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1662386924449">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="559" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662386924449" />
+    <state x="559" y="21" width="811" height="1011" key="find.popup" timestamp="1662130925327">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="559" y="21" width="811" height="1011" key="find.popup/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662130925327" />
+    <state x="504" y="78" width="840" height="1032" key="search.everywhere.popup" timestamp="1662788771636">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="504" y="78" width="840" height="1032" key="search.everywhere.popup/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662788771636" />
+  </component>
+</project>
