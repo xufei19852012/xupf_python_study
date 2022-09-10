@@ -18,6 +18,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="I:\12.MY\02.git\xupf_python_study\.idea" />
+      </set>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -32,9 +39,10 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.obj_factory">
-    <configuration name="GUI (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.16_2_4.findPhoneNum">
+    <configuration name="16_2_4.findPhoneNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xupf_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -42,11 +50,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/02.王者归来/16.chapter16" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI/GUI.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/02.王者归来/16.chapter16/16_2_4.findPhoneNum.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,11 +149,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.16_2_4.findPhoneNum" />
         <item itemvalue="Python.obj_factory" />
         <item itemvalue="Python.object02" />
         <item itemvalue="Python.GUI02 (1)" />
         <item itemvalue="Python.turtle01" />
-        <item itemvalue="Python.GUI (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -164,6 +172,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="615" y="42" key="#16_2_4.findPhoneNum" timestamp="1662821398930">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="615" y="42" key="#16_2_4.findPhoneNum/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821398930" />
     <state x="451" y="89" key="#Inspections" timestamp="1661777760893">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -172,22 +184,26 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662386954635" />
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1662819960781">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1662821450509">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
-    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1662819960781">
+    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450509" />
+    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1662821450508">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
-    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1662819960781">
+    <state width="1892" height="262" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450508" />
+    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1662821450508">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
-    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1662819960781">
+    <state width="1892" height="262" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450508" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1662821450509">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662819960781" />
+    <state width="1892" height="262" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450509" />
+    <state x="336" y="56" key="SettingsEditor" timestamp="1662821446846">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="336" y="56" key="SettingsEditor/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821446846" />
     <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1661776986211">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
