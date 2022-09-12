@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a675315b-8cff-42bd-b868-e2dea1f75833" name="Default Changelist" comment="" />
+    <list default="true" id="a675315b-8cff-42bd-b868-e2dea1f75833" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/kecheng/就业视频课程/pachong/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kecheng/就业视频课程/pachong/pachong01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +14,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -41,7 +45,7 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.16_2_4.findPhoneNum">
+  <component name="RunManager" selected="Python.pachong01">
     <configuration name="16_2_4.findPhoneNum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xupf_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -126,7 +130,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="turtle01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="pachong01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="xupf_python_study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +138,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/kecheng/就业视频课程/pachong" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/03.尚学堂百战程序员/10.GUI/turtle01.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kecheng/就业视频课程/pachong/pachong01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.pachong01" />
         <item itemvalue="Python.16_2_4.findPhoneNum" />
         <item itemvalue="Python.obj_factory" />
         <item itemvalue="Python.object02" />
         <item itemvalue="Python.GUI02 (1)" />
-        <item itemvalue="Python.turtle01" />
       </list>
     </recent_temporary>
   </component>
@@ -184,22 +188,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662386954635" />
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom" timestamp="1662821450509">
+    <state width="1892" height="451" key="GridCell.Tab.0.bottom" timestamp="1662909056861">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450509" />
-    <state width="1892" height="262" key="GridCell.Tab.0.center" timestamp="1662821450508">
+    <state width="1892" height="451" key="GridCell.Tab.0.bottom/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662909056861" />
+    <state width="1892" height="451" key="GridCell.Tab.0.center" timestamp="1662909056861">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450508" />
-    <state width="1892" height="262" key="GridCell.Tab.0.left" timestamp="1662821450508">
+    <state width="1892" height="451" key="GridCell.Tab.0.center/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662909056861" />
+    <state width="1892" height="451" key="GridCell.Tab.0.left" timestamp="1662909056861">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450508" />
-    <state width="1892" height="262" key="GridCell.Tab.0.right" timestamp="1662821450509">
+    <state width="1892" height="451" key="GridCell.Tab.0.left/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662909056861" />
+    <state width="1892" height="451" key="GridCell.Tab.0.right" timestamp="1662909056861">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="262" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662821450509" />
+    <state width="1892" height="451" key="GridCell.Tab.0.right/0.0.1920.1032/1920.0.1920.1080@0.0.1920.1032" timestamp="1662909056861" />
     <state x="336" y="56" key="SettingsEditor" timestamp="1662821446846">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
